@@ -70,7 +70,7 @@
     "@types/react-dom": "^17.0.0",
     "autoprefixer": "~9",
     "babel-loader": "^8.2.2",
-    "framer-motion": "^3.2.1",
+    "framer-motion": "^3.3.0",
     "fs-extra": "^9.1.0",
     "husky": "^4.3.8",
     "postcss": "~8",
