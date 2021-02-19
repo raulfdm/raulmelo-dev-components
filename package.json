@@ -47,7 +47,7 @@
     "react-use-measure": "^2.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.16",
+    "@babel/core": "^7.12.17",
     "@babel/plugin-transform-runtime": "^7.12.15",
     "@emotion/jest": "^11.2.0",
     "@fullhuman/postcss-purgecss": "~3",
