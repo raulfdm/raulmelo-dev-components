@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.17",
-    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/plugin-transform-runtime": "^7.12.17",
     "@emotion/jest": "^11.2.0",
     "@fullhuman/postcss-purgecss": "~3",
     "@semantic-release/changelog": "^5.0.1",
