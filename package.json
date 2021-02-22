@@ -31,7 +31,10 @@
     "analyze": "size-limit --why",
     "storybook": "start-storybook -s ./static -p 6006",
     "build-storybook": "NODE_ENV=production build-storybook -s ./static",
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "postinstall": "husky install",
+    "prepublishOnly": "pinst --disable",
+    "postpublish": "pinst --enable"
   },
   "peerDependencies": {
     "framer-motion": ">=3",
@@ -73,6 +76,7 @@
     "framer-motion": "^3.6.2",
     "fs-extra": "^9.1.0",
     "husky": "^5.1.1",
+    "pinst": "^2.1.4",
     "postcss": "~8",
     "postcss-preset-env": "^6.7.0",
     "react": "^17.0.1",
