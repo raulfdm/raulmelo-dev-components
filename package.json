@@ -50,7 +50,7 @@
     "react-use-measure": "^2.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.1",
+    "@babel/core": "^7.13.8",
     "@babel/plugin-transform-runtime": "^7.13.7",
     "@emotion/jest": "^11.2.0",
     "@fullhuman/postcss-purgecss": "~3",
