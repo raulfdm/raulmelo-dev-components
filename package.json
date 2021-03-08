@@ -52,7 +52,7 @@
   "devDependencies": {
     "@babel/core": "^7.13.8",
     "@babel/plugin-transform-runtime": "^7.13.9",
-    "@emotion/jest": "^11.2.0",
+    "@emotion/jest": "^11.2.1",
     "@fullhuman/postcss-purgecss": "~3",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
